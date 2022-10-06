@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Sathish0225
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-                                                           👋 Hi, I’m Ranganathan Sathishkumar
+- 
+-                                                                   A self-taught programmer
+- 
+- 🔭 I'm currently working in Pedro as Software Developer                                                           
+- 👀 I’m interested in creating more applications and softwares
+- 🌱 I’m currently learning Flutter, Dart, PHP, ReactJS, DOT Net
+- 💞️ I’m looking to collaborate with other content creators
 
-<!---
-Sathish0225/Sathish0225 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
