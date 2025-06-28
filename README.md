@@ -5,11 +5,9 @@
 <h3 align="center">❤️ Let's get connected</h3>
 
 <div align="center">
-  <a href="mailto:ssathishkumar@icloud.com">
-    <img src="https://img.shields.io/badge/Icloud-333333?style=for-the-badge&logo=icloud&logoColor=red" />
-  </a>
+  <a href="mailto:rssathishkumar@icloud.com"><img alt="iCloud Email" src="https://img.shields.io/badge/iCloud-9146FF.svg?&style=for-the-badge&logo=apple&logoColor=white" height="30px" /></a>
   <a href="https://mithran.dev" target="_blank"><img alt="Github" src="https://img.shields.io/badge/mithran.dev-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" /></a>
-  <a href="https://www.linkedin.com/in/sathishkumar-ranganathan-a96626105" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a>
+  <a href="https://www.linkedin.com/in/sathishkumar-ranganathan-a96626105" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedIn&logoColor=white"  height="30px"/></a>
 </div>
 
 ## 👨🏻‍💻 About Me:
