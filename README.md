@@ -2,6 +2,16 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sathishkumar Ranganathan!;" />
 </h1>
 
+<h3 align="center">❤️ Let's get connected</h3>
+
+<div align="center">
+  <a href="mailto:ssathishkumar@icloud.com">
+    <img src="https://img.shields.io/badge/Icloud-333333?style=for-the-badge&logo=icloud&logoColor=red" />
+  </a>
+  <a href="https://mithran.dev" target="_blank"><img alt="Github" src="https://img.shields.io/badge/mithran.dev-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" /></a>
+  <a href="https://www.linkedin.com/in/sathishkumar-ranganathan-a96626105" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a>
+</div>
+
 ## 👨🏻‍💻 About Me:
 
 - 👋 All about me is at [My Website](https://mithran.dev)                                                      
@@ -14,13 +24,6 @@
 - ⚡ Fun fact: I waste most of my time playing games
 
 [![](https://visitcount.itsvg.in/api?id=sathish0225&icon=0&color=0)](https://visitcount.itsvg.in)
-
-## ❤️ Let's get connected:
-
-<p>
-  <a href="https://mithran.dev" target="_blank"><img alt="Github" src="https://img.shields.io/badge/mithran.dev-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" /></a>
-  <a href="https://www.linkedin.com/in/sathishkumar-ranganathan-a96626105" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a>
-</p>
 
 ## 🛠️ Technologies and Tools I use:
 
