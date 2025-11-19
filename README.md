@@ -6,13 +6,13 @@
 
 <div align="center">
   <a href="mailto:rssathishkumar@icloud.com"><img alt="iCloud Email" src="https://img.shields.io/badge/iCloud-9146FF.svg?&style=for-the-badge&logo=apple&logoColor=white" height="30px" /></a>
-  <a href="https://mithran.dev" target="_blank"><img alt="Github" src="https://img.shields.io/badge/mithran.dev-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" /></a>
+  <a href="https://skportfolio.dev" target="_blank"><img alt="Github" src="https://img.shields.io/badge/skportfolio.dev-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" /></a>
   <a href="https://www.linkedin.com/in/sathishkumar-ranganathan-a96626105" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedIn&logoColor=white"  height="30px"/></a>
 </div>
 
 ## 👨🏻‍💻 About Me:
 
-- 👋 All about me is at [My Website](https://mithran.dev)                                                      
+- 👋 All about me is at [My Website](https://skportfolio.dev)                                                      
 - 🔭 I'm currently working as Software Developer
 - 🌱 I’m currently learning `Python`
 - 👯 I’m looking to collaborate for `Dev Projects`
